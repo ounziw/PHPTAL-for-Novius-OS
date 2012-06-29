@@ -1,0 +1,5 @@
+PHPTAL for Novius OS
+
+1. Put the phptaltemplate folder into local/applications.
+2-1. Create the vendor folder in local.
+2-2. Copy PHPTAL library into local/vendor. (Download PHPTAL library from http://phptal.org/)
